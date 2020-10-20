@@ -39,10 +39,9 @@
     - Some children travelled only with a nanny, therefore parch=0 for them.
 
 ## Files
-There are 3 types of files in the repository:
+There are 2 types of files in the repository:
  - Titanic_ligistic_regression.ipynb is the full version of the code used for this predictive analysis
  - readme.md explains the repository
- - Cleaning.md explaines the feature selection process and data cleaning 
 
 **Result analysis**
  - We built a logistic regression model for prediction
